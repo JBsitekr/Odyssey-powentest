@@ -8,7 +8,7 @@ Maybe will be a localization support version of Odyssey
 ## Want to add localization support ?
 Just fork this repo and make pull request 
 
-  <img src="https://github.com/powenn/Odyssey-powentest/blob/main/photos/01.png?raw=true" height="720"/>
+  <img src="https://github.com/powenn/Odyssey-powentest/blob/main/photos/01.png?raw=true" height="1080"/>
 </a>
 
 
