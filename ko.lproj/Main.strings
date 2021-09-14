@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "Enable Tweaks"; ObjectID = "1cs-wY-Xaa"; */
+"1cs-wY-Xaa.text" = "트윅 활성화";
+
+/* Class = "UILabel"; text = "Restore RootFS"; ObjectID = "20R-01-wfL"; */
+"20R-01-wfL.text" = "RootFS 복원(탈옥제거)";
+
+/* Class = "UILabel"; text = "Overwatch"; ObjectID = "4gj-5Y-GYf"; */
+"4gj-5Y-GYf.text" = "오버워치";
+
+/* Class = "UITextField"; text = "In memory of Kúp (s0uthwest)"; ObjectID = "7X5-Hc-3ar"; */
+"7X5-Hc-3ar.text" = "In memory of Kúp (s0uthwest)";
+
+/* Class = "UILabel"; text = "Azur Lane"; ObjectID = "A2I-I3-Zp4"; */
+"A2I-I3-Zp4.text" = "Azur Lane";
+
+/* Class = "UITextView"; text = "Log Window Here"; ObjectID = "CQG-gn-Oeq"; */
+"CQG-gn-Oeq.text" = "로그창";
+
+/* Class = "UILabel"; text = "Show Log Window"; ObjectID = "Goe-t0-Dt2"; */
+"Goe-t0-Dt2.text" = "로그창 활성화";
+
+/* Class = "UILabel"; text = "An update is available at theodyssey.dev"; ObjectID = "HSX-8w-slN"; */
+"HSX-8w-slN.text" = "theodyssey.dev에서 최신 업데이트를 이용할 수 있습니다.";
+
+/* Class = "UILabel"; text = "Diatrus"; ObjectID = "JeY-Lk-JQr"; */
+"JeY-Lk-JQr.text" = "Diatrus";
+
+/* Class = "UILabel"; text = "Custom Background"; ObjectID = "KzL-Zk-j2C"; */
+"KzL-Zk-j2C.text" = "커스텀 배경";
+
+/* Class = "UILabel"; text = "Default"; ObjectID = "L5k-Iv-LlQ"; */
+"L5k-Iv-LlQ.text" = "기본";
+
+/* Class = "UILabel"; text = "Custom Colour"; ObjectID = "M8S-bu-uqP"; */
+"M8S-bu-uqP.text" = "커스텀 컬러";
+
+/* Class = "UILabel"; text = "Enable Blur"; ObjectID = "Pe1-04-ZZC"; */
+"Pe1-04-ZZC.text" = "블러 활성화";
+
+/* Class = "UILabel"; text = "CoolStar"; ObjectID = "Qca-rt-aZs"; */
+"Qca-rt-aZs.text" = "CoolStar";
+
+/* Class = "UILabel"; text = "Base Colour"; ObjectID = "SOg-a1-7Q7"; */
+"SOg-a1-7Q7.text" = "기본 색상";
+
+/* Class = "UILabel"; text = "Modify Colour"; ObjectID = "UmX-pP-j8E"; */
+"UmX-pP-j8E.text" = "색상 수정";
+
+/* Class = "UILabel"; text = "Set ApNonce Generator"; ObjectID = "Yna-P5-tbd"; */
+"Yna-P5-tbd.text" = "ApNonce Generator 설정";
+
+/* Class = "UILabel"; text = "iOS OTA Updates"; ObjectID = "b8y-5p-wlI"; */
+"b8y-5p-wlI.text" = "iOS(OTA)업데이트 비활성화";
+
+/* Class = "UILabel"; text = "Colour One"; ObjectID = "bXQ-ME-HH8"; */
+"bXQ-ME-HH8.text" = "두번째 색상";
+
+/* Class = "UILabel"; text = "Sierra (@p0shboi)"; ObjectID = "ejQ-Ol-mMD"; */
+"ejQ-Ol-mMD.text" = "시에라 (@p0shboi)";
+
+/* Class = "UILabel"; text = "Dark"; ObjectID = "g6a-dq-uBB"; */
+"g6a-dq-uBB.text" = "다크";
+
+/* Class = "UILabel"; text = "Credits"; ObjectID = "hSF-Kl-Ri2"; */
+"hSF-Kl-Ri2.text" = "크레딧";
+
+/* Class = "UILabel"; text = "Pokémon"; ObjectID = "icA-o3-sxp"; */
+"icA-o3-sxp.text" = "포켓몬";
+
+/* Class = "UILabel"; text = "Enable Blur"; ObjectID = "kft-bu-APi"; */
+"kft-bu-APi.text" = "블러 활성화";
+
+/* Class = "UILabel"; text = "Theme"; ObjectID = "lk3-Qu-4GP"; */
+"lk3-Qu-4GP.text" = "테마";
+
+/* Class = "UILabel"; text = "Modify Background"; ObjectID = "o6O-Ca-qwp"; */
+"o6O-Ca-qwp.text" = "배경 수정";
+
+/* Class = "UILabel"; text = "League of Legends"; ObjectID = "onj-6H-x2U"; */
+"onj-6H-x2U.text" = "롤";
+
+/* Class = "UILabel"; text = "Colour Two"; ObjectID = "q4x-aE-EXW"; */
+"q4x-aE-EXW.text" = "두번쨰 색상";
+
+/* Class = "UILabel"; text = "23 Aaron"; ObjectID = "qfe-8D-SgK"; */
+"qfe-8D-SgK.text" = "23 Aaron";
+
+/* Class = "UILabel"; text = "Meridian Dark"; ObjectID = "u1t-zd-2uL"; */
+"u1t-zd-2uL.text" = "Meridian 다크";
+
+/* Class = "UILabel"; text = "tihmstar"; ObjectID = "vTI-q3-RwU"; */
+"vTI-q3-RwU.text" = "tihmstar";
+
+/* Class = "UILabel"; text = "Choose Image"; ObjectID = "x3j-yn-MDU"; */
+"x3j-yn-MDU.text" = "이미지 선택";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "yCx-0Y-D2W"; */
+"yCx-0Y-D2W.text" = "설정";
