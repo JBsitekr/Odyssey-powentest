@@ -25,8 +25,8 @@ THIS SOFTWARE IS PROVIDED BY COOLSTAR AND CONTRIBUTORS "AS IS" AND ANY EXPRESS O
 
 *from [Odyssey](https://github.com/Odyssey-Team/Odyssey)*
 
-
+![Demo photo][2]
 
 
 [1]:https://github.com/powenn/Odyssey-powentest/blob/main/photos/01.png
-
+[2]:https://github.com/powenn/Odyssey-powentest/blob/main/photos/02.png
