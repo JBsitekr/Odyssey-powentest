@@ -20,7 +20,7 @@ jobs:
           cd Odyssey/resources && tar -cf basebinaries.tar amfidebilitate jailbreakd jbexec launchjailbreak pspawn_payload-stg2.dylib pspawn_payload.dylib
           rm -f Odyssey/resources/{amfidebilitate,jailbreakd,jbexec,launchjailbreak,*.dylib}
           cd ../..
-          xcodebuild clean build CODE_SIGNING_ALLOWED=NO ONLY_ACTIVE_ARCH=NO PRODUCT_BUNDLE_IDENTIFIER="$(BUNDLE)" -sdk iphoneos -scheme Odyssey -configuration Release -derivedDataPath build
+          xcodebuild clean build CODE_SIGNING_ALLOWED=NO ONLY_ACTIVE_ARCH=NO PRODUCT_BUNDLE_IDENTIFIER='org.coolstar.odyssey' -sdk iphoneos -scheme Odyssey -configuration Release -derivedDataPath build
           ln -sf build/Build/Products/Release-iphoneos Payload
           rm -rf Payload/Odyssey.app/Frameworks
           zip -r9 Odyssey.ipa Payload/Odyssey.app
