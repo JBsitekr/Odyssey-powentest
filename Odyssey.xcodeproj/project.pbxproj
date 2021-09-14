@@ -17,7 +17,6 @@
 		360512E624B10E5700DFD3AF /* UICircularProgressRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360512DE24B10E5700DFD3AF /* UICircularProgressRing.swift */; };
 		360512E724B10E5700DFD3AF /* UICircularRingValueFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360512DF24B10E5700DFD3AF /* UICircularRingValueFormatter.swift */; };
 		36C0993624A4560D0043250A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36C0993524A4560D0043250A /* Assets.xcassets */; };
-		36C0994124A456390043250A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36C0993724A456390043250A /* Main.storyboard */; };
 		36C0994324A456390043250A /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C0993924A456390043250A /* BackgroundView.swift */; };
 		36C0994424A456390043250A /* AnimatingColourView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C0993A24A456390043250A /* AnimatingColourView.swift */; };
 		36C0994524A456390043250A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C0993B24A456390043250A /* ViewController.swift */; };
@@ -66,6 +65,8 @@
 		53E5643B2506F18500C4591F /* ColourViewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E564392506F18500C4591F /* ColourViewer.swift */; };
 		933AA7C324E9D34F006182FC /* AppVersionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933AA7C224E9D34F006182FC /* AppVersionManager.swift */; };
 		933AA7C424E9D34F006182FC /* AppVersionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933AA7C224E9D34F006182FC /* AppVersionManager.swift */; };
+		B5EEEAB426F0BC69004D9D80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5EEEAB726F0BC69004D9D80 /* Main.storyboard */; };
+		B5EEEAB526F0BC69004D9D80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5EEEAB726F0BC69004D9D80 /* Main.storyboard */; };
 		F104F29E25BFA1B100501E1C /* uicache.gz in Resources */ = {isa = PBXBuildFile; fileRef = F104F29D25BFA1B100501E1C /* uicache.gz */; };
 		F10593C124B1D98C00343F46 /* TableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10593C024B1D98C00343F46 /* TableButton.swift */; };
 		F10593C324B29DAC00343F46 /* AvatarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10593C224B29DAC00343F46 /* AvatarView.swift */; };
@@ -124,7 +125,6 @@
 		F170604024CD53CD001596A0 /* signcert.p12 in Resources */ = {isa = PBXBuildFile; fileRef = F13C1675243C0E3300194BF3 /* signcert.p12 */; };
 		F170604124CD53CD001596A0 /* BuildConfigs.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = F191A9BE2432EC17005E0F8F /* BuildConfigs.xcconfig */; };
 		F170604224CD53CD001596A0 /* bootstrap.tar.gz in Resources */ = {isa = PBXBuildFile; fileRef = F1F551D9246E585C001CE9FB /* bootstrap.tar.gz */; };
-		F170604324CD53CD001596A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36C0993724A456390043250A /* Main.storyboard */; };
 		F170604424CD53CD001596A0 /* basebinaries.tar in Resources */ = {isa = PBXBuildFile; fileRef = F1BE3B88246DE89C005E0C00 /* basebinaries.tar */; };
 		F170604624CD53CD001596A0 /* tar.gz in Resources */ = {isa = PBXBuildFile; fileRef = F1F551E7246E677D001CE9FB /* tar.gz */; };
 		F170604B24CD53CD001596A0 /* SwiftZSTD.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 36613AA1246E2DCF0090D2E0 /* SwiftZSTD.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -249,7 +249,6 @@
 		360512DF24B10E5700DFD3AF /* UICircularRingValueFormatter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICircularRingValueFormatter.swift; sourceTree = "<group>"; };
 		36613A95246E2DCF0090D2E0 /* SwiftZSTD.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SwiftZSTD.xcodeproj; path = SwiftZSTD/SwiftZSTD.xcodeproj; sourceTree = "<group>"; };
 		36C0993524A4560D0043250A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		36C0993724A456390043250A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		36C0993924A456390043250A /* BackgroundView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 		36C0993A24A456390043250A /* AnimatingColourView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatingColourView.swift; sourceTree = "<group>"; };
 		36C0993B24A456390043250A /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -280,6 +279,8 @@
 		53E564132506A8F400C4591F /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		53E564392506F18500C4591F /* ColourViewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColourViewer.swift; sourceTree = "<group>"; };
 		933AA7C224E9D34F006182FC /* AppVersionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppVersionManager.swift; sourceTree = "<group>"; };
+		B5EEEAB626F0BC69004D9D80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B5EEEAB826F0BC74004D9D80 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Main.strings"; sourceTree = "<group>"; };
 		F104F29D25BFA1B100501E1C /* uicache.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; path = uicache.gz; sourceTree = "<group>"; };
 		F10593C024B1D98C00343F46 /* TableButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableButton.swift; sourceTree = "<group>"; };
 		F10593C224B29DAC00343F46 /* AvatarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarView.swift; sourceTree = "<group>"; };
@@ -525,7 +526,7 @@
 				36C0993F24A456390043250A /* AppDelegate.swift */,
 				36C0993924A456390043250A /* BackgroundView.swift */,
 				36C0993C24A456390043250A /* LaunchScreen.storyboard */,
-				36C0993724A456390043250A /* Main.storyboard */,
+				B5EEEAB726F0BC69004D9D80 /* Main.storyboard */,
 				36C0993D24A456390043250A /* SceneDelegate.swift */,
 				36C0993B24A456390043250A /* ViewController.swift */,
 				F1FF240024AC946C00ACAE23 /* LogStream.swift */,
@@ -716,6 +717,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hant",
 			);
 			mainGroup = F124307A240BB358006439CC;
 			productRefGroup = F1243084240BB358006439CC /* Products */;
@@ -790,7 +792,7 @@
 				F191A9BF2432EC17005E0F8F /* BuildConfigs.xcconfig in Resources */,
 				F104F29E25BFA1B100501E1C /* uicache.gz in Resources */,
 				F1F551DA246E585D001CE9FB /* bootstrap.tar.gz in Resources */,
-				36C0994124A456390043250A /* Main.storyboard in Resources */,
+				B5EEEAB426F0BC69004D9D80 /* Main.storyboard in Resources */,
 				F1BE3B89246DE89C005E0C00 /* basebinaries.tar in Resources */,
 				36C0993624A4560D0043250A /* Assets.xcassets in Resources */,
 				F1F551E8246E6788001CE9FB /* tar.gz in Resources */,
@@ -806,7 +808,7 @@
 				F170604024CD53CD001596A0 /* signcert.p12 in Resources */,
 				F170604124CD53CD001596A0 /* BuildConfigs.xcconfig in Resources */,
 				F170604224CD53CD001596A0 /* bootstrap.tar.gz in Resources */,
-				F170604324CD53CD001596A0 /* Main.storyboard in Resources */,
+				B5EEEAB526F0BC69004D9D80 /* Main.storyboard in Resources */,
 				F170604424CD53CD001596A0 /* basebinaries.tar in Resources */,
 				F170604624CD53CD001596A0 /* tar.gz in Resources */,
 				F1C8FE7E24F9D492008A551E /* Assets.xcassets in Resources */,
@@ -1016,12 +1018,25 @@
 		};
 /* End PBXTargetDependency section */
 
+/* Begin PBXVariantGroup section */
+		B5EEEAB726F0BC69004D9D80 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B5EEEAB626F0BC69004D9D80 /* Base */,
+				B5EEEAB826F0BC74004D9D80 /* zh-Hant */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
 		F1243095240BB359006439CC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F191A9BE2432EC17005E0F8F /* BuildConfigs.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1079,6 +1094,7 @@
 			baseConfigurationReference = F191A9BE2432EC17005E0F8F /* BuildConfigs.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
