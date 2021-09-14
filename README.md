@@ -8,9 +8,7 @@ Maybe will be a localization support version of Odyssey
 ## Want to add localization support ?
 Just fork this repo and make pull request 
 
-  <img src="https://github.com/powenn/Odyssey-powentest/blob/main/photos/01.png?raw=true" height="1080"/>
-</a>
-
+![Demo photo][1]
 
 ## License 
 Copyright 2020, CoolStar. All Rights Reserved.
@@ -29,3 +27,4 @@ THIS SOFTWARE IS PROVIDED BY COOLSTAR AND CONTRIBUTORS "AS IS" AND ANY EXPRESS O
 
 
 
+[1]:https://github.com/powenn/Odyssey-powentest/blob/main/photos/01.png
