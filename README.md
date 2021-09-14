@@ -5,6 +5,9 @@
 
 Maybe will be a localization support version of Odyssey
 
+# Supported additional language list
+- Chinese Traditional
+
 ## Want to add localization support ?
 Just fork this repo and make pull request 
 
