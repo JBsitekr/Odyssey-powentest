@@ -1,0 +1,32 @@
+name: Build
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+   runs-on: macos-latest
+
+   steps:
+      - uses: actions/checkout@v2
+      - name: submodules-init
+        uses: snickerbockers/submodules-init@v4
+      - name: Build
+        run: |
+          make -C amfidebilitate clean all
+          cd Odyssey/resources && tar -xf basebinaries.tar
+          rm -f Odyssey/resources/{amfidebilitate,basebinaries.tar}
+          cd ../..
+          cp amfidebilitate/bin/* Odyssey/resources
+          cd Odyssey/resources && tar -cf basebinaries.tar amfidebilitate jailbreakd jbexec launchjailbreak pspawn_payload-stg2.dylib pspawn_payload.dylib
+          rm -f Odyssey/resources/{amfidebilitate,jailbreakd,jbexec,launchjailbreak,*.dylib}
+          cd ../..
+          xcodebuild clean build CODE_SIGNING_ALLOWED=NO ONLY_ACTIVE_ARCH=NO PRODUCT_BUNDLE_IDENTIFIER="$(BUNDLE)" -sdk iphoneos -scheme Odyssey -configuration Release -derivedDataPath build
+          ln -sf build/Build/Products/Release-iphoneos Payload
+          rm -rf Payload/Odyssey.app/Frameworks
+          zip -r9 Odyssey.ipa Payload/Odyssey.app
+          
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v2.2.4
+        with:
+         name: Odyssey.ipa
+         path: "Odyssey.ipa"
